@@ -5,10 +5,9 @@ Welcome to my GitHub! I'm a Computer Science student, currently learning Flutter
 ## My skillset:
 
 - Cross-platform app development with Flutter
-- Game development with Unity and C#
 - Scripting, automation, and simple CLI tools that make life easier with Python
 - Backend development and REST APIs with Go
-- *Really* fast and memory safe programs with Rust
+- Fast and memory safe programs with Rust
 - Declarative configurations with Nix on NixOS
 - Java (Currently learning as part of my CS course)
 
