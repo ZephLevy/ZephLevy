@@ -1,17 +1,16 @@
 ## Hi there, I'm Zeph!
 
-Welcome to my GitHub! I'm a Computer Science student, currently learning Flutter development. I'm also working on a project designed to help victims of kidnapping if they are incapacitated.
+Welcome to my GitHub! You'll find some other projects on [my forgejo instance](https://git.zephlevy.com).
 
 ## My skillset:
 
-- Cross-platform app development with Flutter
-- Scripting, automation, and simple CLI tools that make life easier with Python
-- Backend development and REST APIs with Go
-- Fast and memory safe programs with Rust
-- Declarative configurations with Nix on NixOS
-- Java (Currently learning as part of my CS course)
+- Rust (for the fun of writing horribly unsafe optimized code without the danger)
+- Golang (for "boring" backend things)
+- Nix (I use NixOS btw)
+- Flutter & Dart
+- Python (ML too)
+- Java
 
 ## Contact me:
-
-I do have a website domain, but it’s a work in progress. Stay tuned!
+There may or may not be interesting things on [my website](https://www.zephlevy.com) some day.
 
