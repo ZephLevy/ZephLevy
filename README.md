@@ -4,11 +4,11 @@ Welcome to my GitHub! You'll find some other projects on [my forgejo instance](h
 
 ## My skillset:
 
-- Rust (for the fun of writing horribly unsafe optimized code without the danger)
-- Golang (for "boring" backend things)
+- Rust
+- Golang
 - Nix (I use NixOS btw)
 - Flutter & Dart
-- Python (ML too)
+- Python
 - Java
 
 ## Contact me:
