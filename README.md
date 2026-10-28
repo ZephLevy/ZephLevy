@@ -12,5 +12,5 @@ Welcome to my GitHub! You'll find some other projects on [my forgejo instance](h
 - Java
 
 ## Contact me:
-There may or may not be interesting things on [my website](https://www.zephlevy.com) some day.
+You can reach out to me (and see more about me) on [my website](https://www.zephlevy.com).
 
